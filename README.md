@@ -20,8 +20,8 @@ Voice-Controlled Wheelchair: Developed a hands-free control system for enhanced 
 Let's connect and collaborate on exciting projects!
 Feel free to explore my repositories and get in touch with me on LinkedIn.
 
-## LInkdin :- https://www.linkedin.com/in/yash-gayke-4b2871213/
+### LInkdin :- https://www.linkedin.com/in/yash-gayke-4b2871213/
 
-## 📫 How to reach me: Contact me directly on yashgaykeworks@gmail.com
+### 📫 How to reach me: Contact me directly on yashgaykeworks@gmail.com
 
-## ⚡ Fun fact: I really want to help people through technology. Mundane tasks can be easy via technology and I believe that whatever we create, if we are able to solve problem of even one person and we made his/her life easier, it's worth it!! It's all about creating an impact.
+### ⚡ Fun fact: I really want to help people through technology. Mundane tasks can be easy via technology and I believe that whatever we create, if we are able to solve problem of even one person and we made his/her life easier, it's worth it!! It's all about creating an impact.
