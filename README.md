@@ -13,9 +13,9 @@ Precision Agriculture Using ML: Implemented machine learning models for crop yie
 Voice-Controlled Wheelchair: Developed a hands-free control system for enhanced mobility, using Arduino, sensors, and Bluetooth technology.
 
 ## ⚙️ Technical Skills:
-# Languages: Python, SQL, HTML/CSS, JavaScript
-# Tools: Power BI, Tableau, VS Code, Excel, Android Studio
-# Technologies: Flask, Pandas, NumPy, TensorFlow, GitHub
+### Languages: Python, SQL, HTML/CSS, JavaScript
+### Tools: Power BI, Tableau, VS Code, Excel, Android Studio
+### Technologies: Flask, Pandas, NumPy, TensorFlow, GitHub
 
 Let's connect and collaborate on exciting projects!
 Feel free to explore my repositories and get in touch with me on LinkedIn.
